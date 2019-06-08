@@ -12,6 +12,9 @@ Submission format: Please send a GitHub/Bitbucket source code repository link.
 <a href="https://github.com/johnwang7273/Demo/wiki/Producer-Topic-Consumer-overiew">Producer-Topic-Consumer-overiew</a><br/>  
 
 
-# Kafka Producer/Consumer basics
-Kafka can be used with Apache Storm to handle data pipeline for high speed filtering and pattern matching on the fly. Kafka is often used for operation monitoring data pipelines. This involves aggregating statistics from distributed applications to produce centralized feeds of operational data.
+# Kafka Producer/Consumer basics: an Publish-subscribe messaging system
+Apache Kafka is a publish-subscribe messaging system lets you send messages between processes, applications, and servers.
+
+A Kafka cluster consists of one or more servers (Kafka brokers), which are running Kafka. Producers are processes that publish data (push messages) into Kafka topics within the broker. A consumer of topics pulls messages off a Kafka topic.
+
 ![](https://github.com/johnwang7273/Demo/blob/master/kafka-comsumer-provider.png)
