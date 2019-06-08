@@ -7,8 +7,9 @@ Submission format: Please send a GitHub/Bitbucket source code repository link.
 ```
 
 # Please see wiki page for more info
-<a href="https://github.com/johnwang7273/Demo/wiki">wiki Home</a><br/>
-<a href="https://github.com/johnwang7273/Demo/wiki/Kafka-Broker-runtime-and-Producer-Consumer-interaction">Kafka Broker runtime and Producer Consumer interaction</a><br/>         
+<a href="https://github.com/johnwang7273/Demo/wiki">Kafka deplyed in Docker - message flowed from producer to consumer!</a><br/>
+<a href="https://github.com/johnwang7273/Demo/wiki/Kafka-Broker-runtime-and-Producer-Consumer-interaction">Kafka Broker runtime and Producer Consumer interaction</a><br/>
+<a href="https://github.com/johnwang7273/Demo/wiki/Producer-Topic-Consumer-overiewn">Producer-Topic-Consumer-overiew</a><br/>  
 
 
 # Kafka Producer/Consumer basics
